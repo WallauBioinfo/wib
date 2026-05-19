@@ -65,6 +65,7 @@ nextflow run main.nf \
     --min_pident 0 \
     --cut_evalue 0.001
 ```
+*Note: At the folder `assets/`, there are files named with `_TEST` with testing purpose only* 
 
 ### Parameters
 
