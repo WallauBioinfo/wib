@@ -1,4 +1,4 @@
-# Wib: Mosquito Food Source Detection Pipeline
+# Wib: Who is bitten? - Mosquito Bloodmeal Detection Pipeline
 
 A Nextflow pipeline for detecting mosquito food sources from metagenomic sequencing data.
 
